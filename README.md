@@ -2,7 +2,8 @@
 Machine Learning Basic ND - Project 1
 
 # List of files
-movies.py - represents the class that supports building a Movie and it's details                                                           
+movies.py - represents the class that supports building a Movie and it's details
+
 movielist.py - contains a collection of movies
 
 fresh_tomatoes.py - template code for HTML generation
